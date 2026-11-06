@@ -1,5 +1,93 @@
 
-<h2 align="center">🚀 Featured Projects</h2>
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16002B,50:5B21B6,100:9333EA&height=200&section=header&text=Matheus%20Gomes&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Desenvolvimento%20Web%20%7C%20Design%20%7C%20Tecnologia&descAlignY=58&descSize=16" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Transformando+ideias+em+solucoes+digitais;Desenvolvimento+Web+e+Interfaces;Automacao+e+Inteligencia+Artificial;Sempre+aprendendo+e+construindo" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Gomesmatheus93&style=flat-square&color=7C3AED&label=VISUALIZACOES+DO+PERFIL" />
+
+</div>
+
+---
+
+## 👨‍💻 Sobre mim
+
+Olá! Sou **Matheus Gomes**, desenvolvedor brasileiro apaixonado por tecnologia, design e criação de soluções digitais.
+
+Minha trajetória une desenvolvimento de software, design criativo, marketing digital e automação de processos.
+
+Gosto de transformar ideias em projetos funcionais, desenvolver interfaces, criar sites e integrar tecnologias para resolver problemas reais.
+
+- 💻 Desenvolvimento de sites, aplicações e sistemas web.
+- 🎨 Interesse em design de interfaces e experiências digitais.
+- ⚙️ Desenvolvimento de automações e integrações com APIs.
+- 🤖 Explorando inteligência artificial e agentes virtuais.
+- 🚀 Aprendendo e desenvolvendo projetos com tecnologias modernas.
+- 🧠 Sempre buscando evoluir e transformar conhecimentos em soluções práticas.
+
+**Meu objetivo:** utilizar a tecnologia para criar soluções úteis, inteligentes e acessíveis.
+
+---
+
+## 🛠️ Tecnologias e ferramentas
+
+### 🌐 Desenvolvimento Front-end
+
+<div align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nextjs" />
+</div>
+
+### ⚙️ Desenvolvimento Back-end e Banco de dados
+
+<div align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,python,fastapi,firebase,postgres" />
+</div>
+
+### 🔧 Ferramentas e ambiente de desenvolvimento
+
+<div align="left">
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux,wordpress" />
+</div>
+
+### 🤖 Automação e Inteligência Artificial
+
+<div align="left">
+
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+
+<img src="https://img.shields.io/badge/APIs-6D28D9?style=for-the-badge&logo=fastapi&logoColor=white" />
+
+</div>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Gomesmatheus93&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&locale=pt-br" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gomesmatheus93&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&locale=pt-br" />
+
+</div>
+
+<div align="center">
+
+<img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=Gomesmatheus93&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&locale=pt_BR" />
+
+</div>
+
+---
+
+
+## 🚀 Projetos em destaque
+
+Conheça alguns dos projetos que desenvolvi e venho aprimorando ao longo da minha jornada.
 
 <table>
 <tr>
@@ -7,13 +95,14 @@
 
 <h3>🔳 QR Atlas</h3>
 
-Platform for dynamic QR code generation, destination management and tracking.
+Plataforma para geração e gerenciamento de QR Codes dinâmicos, com gerenciamento de destinos e acompanhamento de acessos.
 
-**Technologies:**
+**Tecnologias:**
+
 Python · FastAPI · PostgreSQL · Docker
 
 <a href="https://github.com/Gomesmatheus93/qr-atlas">
-  <img src="https://img.shields.io/badge/VIEW_PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VER_PROJETO-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
@@ -21,13 +110,14 @@ Python · FastAPI · PostgreSQL · Docker
 
 <h3>⚡ Alle Connect</h3>
 
-Digital energy platform featuring interactive calculators, energy tools and integrations.
+Plataforma digital voltada ao setor de energia, com ferramentas interativas, soluções digitais e integrações.
 
-**Technologies:**
-JavaScript · HTML · CSS · Docker
+**Tecnologias:**
+
+JavaScript · HTML · CSS
 
 <a href="https://github.com/Gomesmatheus93/alleconect">
-  <img src="https://img.shields.io/badge/VIEW_PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VER_PROJETO-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
@@ -38,27 +128,29 @@ JavaScript · HTML · CSS · Docker
 
 <h3>🔄 Firmus Flow</h3>
 
-A software project focused on workflow management and digital solutions.
+Projeto de software voltado à organização de processos, gerenciamento de fluxos de trabalho e desenvolvimento de soluções digitais.
 
-**Technologies:**
-Software Development · Automation
+**Foco:**
+
+Sistemas · Automação · Desenvolvimento Web
 
 <a href="https://github.com/Gomesmatheus93/firmus-flow">
-  <img src="https://img.shields.io/badge/VIEW_PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VER_PROJETO-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
 <td width="50%" valign="top">
 
-<h3>🧾 Receipt Generator</h3>
+<h3>🧾 Gerador de Recibos</h3>
 
-A practical application designed to simplify and automate receipt generation.
+Aplicação desenvolvida para facilitar e agilizar a criação de recibos de maneira prática e organizada.
 
-**Technologies:**
+**Tecnologias:**
+
 Node.js · CSS
 
 <a href="https://github.com/Gomesmatheus93/gerador-de-recibo">
-  <img src="https://img.shields.io/badge/VIEW_PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VER_PROJETO-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
@@ -67,24 +159,76 @@ Node.js · CSS
 <tr>
 <td width="50%" valign="top">
 
-<h3>💈 Barbershop System</h3>
+<h3>💈 Sistema para Barbearia</h3>
 
-A digital system developed for barbershop management and business operations.
+Sistema digital desenvolvido para auxiliar na gestão e organização de uma barbearia, facilitando seus processos e operações.
 
-**Technologies:**
-Web Development · Software Solutions
+**Foco:**
+
+Desenvolvimento Web · Sistemas de Gestão
 
 <a href="https://github.com/Gomesmatheus93/sistema-barbearia">
-  <img src="https://img.shields.io/badge/VIEW_PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VER_PROJETO-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
 <td width="50%" valign="top">
 
-<h3>💡 More projects coming soon...</h3>
+<h3>💡 Próximos projetos</h3>
 
-Always exploring new technologies, building ideas and developing solutions.
+Sempre explorando novas tecnologias, desenvolvendo ideias e transformando desafios em soluções digitais.
 
 </td>
 </tr>
 </table>
+
+---
+
+## 📚 O que estou aprendendo
+
+Atualmente, tenho direcionado meus estudos e projetos para:
+
+- TypeScript e boas práticas de programação.
+- React e desenvolvimento de aplicações modernas.
+- Desenvolvimento de APIs e integrações.
+- Firebase e arquitetura de aplicações.
+- Automação de processos utilizando n8n.
+- Inteligência artificial e agentes virtuais.
+- UI/UX e desenvolvimento de interfaces.
+- Git, GitHub e organização de projetos.
+
+---
+
+## 🌎 Vamos nos conectar?
+
+Estou aberto a trocar experiências, colaborar em projetos e conhecer novas oportunidades.
+
+<div align="center">
+
+<a href="https://github.com/Gomesmatheus93">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<!-- Substitua pelos seus links profissionais -->
+
+<a href="SEU_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:SEU_EMAIL">
+<img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### "Grandes ideias merecem grandes execuções."
+
+**Obrigado por visitar meu perfil!** 🚀
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:9333EA,50:5B21B6,100:16002B&height=100&section=footer" />
