@@ -1,4 +1,207 @@
 
+<!-- HEADER -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16002B,50:5B21B6,100:9333EA&height=200&section=header&text=Matheus%20Gomes&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20Creative%20%7C%20Problem%20Solver&descAlignY=58&descSize=16" />
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+digital+experiences;Web+Development+%26+UI+Design;Automation+%26+Artificial+Intelligence;Turning+ideas+into+real+solutions" />
+
+  <br/>
+
+  <img src="https://komarev.com/ghpvc/?username=Gomesmatheus93&style=flat-square&color=7C3AED&label=PROFILE+VIEWS" />
+
+</div>
+
+---
+
+<!-- ABOUT ME -->
+## 👨‍💻 About Me
+
+Hey! I'm **Matheus Gomes**, a Brazilian developer passionate about technology, design and building digital solutions.
+
+My journey combines software development, creative design and digital business.
+
+I enjoy transforming ideas into functional products, creating interfaces, developing websites and connecting different technologies to solve real-world problems.
+
+- 💻 Working with web development and digital solutions.
+- 🎨 Interested in UI design and creative development.
+- ⚙️ Exploring automation, APIs and AI-powered solutions.
+- 🚀 Building projects with React, TypeScript and modern web technologies.
+- 🧠 Always learning, experimenting and improving my skills.
+
+**My philosophy:** Technology should make things simpler, smarter and more accessible.
+
+---
+
+<!-- TECH STACK -->
+## 🛠️ Tech Stack
+
+### Frontend Development
+
+<div>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nextjs" />
+</div>
+
+### Backend & Database
+
+<div>
+  <img src="https://skillicons.dev/icons?i=nodejs,python,fastapi,firebase,postgres" />
+</div>
+
+### Tools & Workflow
+
+<div>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux,wordpress" />
+</div>
+
+### Automation & AI
+
+<div>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/API_Integrations-6D28D9?style=for-the-badge&logo=fastapi&logoColor=white" />
+</div>
+
+---
+
+<!-- GITHUB STATS -->
+## 📊 GitHub Analytics
+
+<div align="center">
+
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Gomesmatheus93&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6" />
+
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gomesmatheus93&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA" />
+
+</div>
+
+<div align="center">
+
+  <img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=Gomesmatheus93&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" />
+
+</div>
+
+---
+
+<!-- PROJECTS -->
+## 🚀 Featured Projects
+
+Some projects I've built, developed or explored along my journey.
+
+<table>
+<tr>
+<td width="50%">
+
+### 📊 Agência de Marketing
+
+Marketing agency management project with a focus on digital solutions and web development.
+
+**Tech:** TypeScript
+
+<a href="https://github.com/Gomesmatheus93/agencia-de-marketing">View repository →</a>
+
+</td>
+<td width="50%">
+
+### ⚡ Alle Connect
+
+Digital energy platform with interactive features, calculations and integrations.
+
+**Tech:** JavaScript · HTML · CSS
+
+<a href="https://github.com/Gomesmatheus93/alleconect">View repository →</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 💍 Wedding Website
+
+A personalized wedding platform with digital features and integrations.
+
+**Tech:** Next.js · TypeScript · Firebase · Mercado Pago
+
+<a href="https://github.com/Gomesmatheus93/site-casamento-germana-e-flavio">View repository →</a>
+
+</td>
+<td width="50%">
+
+### 🔳 QR Code Generator
+
+A project focused on QR code generation and digital utilities.
+
+**Tech:** Python
+
+<a href="https://github.com/Gomesmatheus93/gerador-de-qr-code">View repository →</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🧾 Receipt Generator
+
+A tool designed to simplify receipt generation.
+
+**Tech:** Node.js · CSS
+
+<a href="https://github.com/Gomesmatheus93/gerador-de-recibo">View repository →</a>
+
+</td>
+<td width="50%">
+
+### 🌐 Marcos Freitas Website
+
+Website development project focused on web interfaces and presentation.
+
+**Tech:** HTML · CSS · JavaScript
+
+<a href="https://github.com/Gomesmatheus93/marcos-freitas-site">View repository →</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- CURRENT INTERESTS -->
+## 🔭 What I'm Exploring
+
+- TypeScript and software architecture.
+- React and modern frontend development.
+- Backend development and API integrations.
+- Firebase and application infrastructure.
+- Workflow automation with n8n.
+- AI agents and intelligent applications.
+- UI/UX and creative development.
+
+---
+
+<!-- CONNECT -->
+## 🌎 Let's Connect
+
+I'm always interested in learning, collaborating and building new things.
+
+<div align="center">
+
+  <a href="https://github.com/Gomesmatheus93">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <!-- Add your LinkedIn and professional email here -->
+
+</div>
+
+---
+
+<div align="center">
+
+  ### "Great ideas deserve great execution."
+
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:9333EA,50:5B21B6,100:16002B&height=100&section=footer" />
+
+</div>
+
 <h2 align="center">🚀 Featured Projects</h2>
 
 <table>
