@@ -211,11 +211,11 @@ Estou aberto a trocar experiências, colaborar em projetos e conhecer novas opor
 
 <!-- Substitua pelos seus links profissionais -->
 
-<a href="SEU_LINKEDIN">
+<a href="https://www.linkedin.com/in/matheus-gomes-710714422?utm_source=share_via&utm_content=profile&utm_medium=member_ios">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="mailto:SEU_EMAIL">
+<a href="mailto:mp409715@gmail.com">
 <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
