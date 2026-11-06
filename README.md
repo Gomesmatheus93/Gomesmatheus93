@@ -16,19 +16,19 @@
 <!-- ABOUT ME -->
 ## 👨‍💻 About Me
 
-Hey! I'm **Matheus Gomes**, a Brazilian developer passionate about technology, design and building digital solutions.
+Olá! Eu sou **Matheus Gomes**, um desenvolvedor brasileiro apaixonado por tecnologia, design e pela criação de soluções digitais.
 
-My journey combines software development, creative design and digital business.
+Minha trajetória combina desenvolvimento de software, design criativo e negócios digitais..
 
-I enjoy transforming ideas into functional products, creating interfaces, developing websites and connecting different technologies to solve real-world problems.
+Gosto de transformar ideias em produtos funcionais, criar interfaces, desenvolver sites e conectar diferentes tecnologias para solucionar problemas do mundo real.
 
-- 💻 Working with web development and digital solutions.
-- 🎨 Interested in UI design and creative development.
-- ⚙️ Exploring automation, APIs and AI-powered solutions.
-- 🚀 Building projects with React, TypeScript and modern web technologies.
-- 🧠 Always learning, experimenting and improving my skills.
+- 💻 Atuação com desenvolvimento web e soluções digitais.
+- 🎨 Interessado em design de interface (UI) e desenvolvimento criativo.
+- ⚙️ Explorando automação, APIs e soluções baseadas em IA.
+- 🚀 Desenvolvendo projetos com React, TypeScript e tecnologias web modernas.
+- 🧠 Sempre aprendendo, experimentando e aprimorando minhas habilidades.
 
-**My philosophy:** Technology should make things simpler, smarter and more accessible.
+**Minha filosofia:** A tecnologia deve tornar as coisas mais simples, mais inteligentes e mais acessíveis.
 
 ---
 
