@@ -1,18 +1,3 @@
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16002B,50:5B21B6,100:9333EA&height=200&section=header&text=Matheus%20Gomes&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Desenvolvimento%20Web%20%7C%20Design%20%7C%20Tecnologia&descAlignY=58&descSize=16" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Transformando+ideias+em+solucoes+digitais;Desenvolvimento+Web+e+Interfaces;Automacao+e+Inteligencia+Artificial;Sempre+aprendendo+e+construindo" />
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Gomesmatheus93&style=flat-square&color=7C3AED&label=VISUALIZACOES+DO+PERFIL" />
-
-</div>
-
----
-
 ## 👨‍💻 Sobre mim
 
 Olá! Sou **Matheus Gomes**, desenvolvedor brasileiro apaixonado por tecnologia, design e criação de soluções digitais.
