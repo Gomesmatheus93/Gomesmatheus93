@@ -186,14 +186,3 @@ Estou aberto a trocar experiências, colaborar em projetos e conhecer novas opor
 
 </div>
 
----
-
-<div align="center">
-
-### "Grandes ideias merecem grandes execuções."
-
-**Obrigado por visitar meu perfil!** 🚀
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:9333EA,50:5B21B6,100:16002B&height=100&section=footer" />
