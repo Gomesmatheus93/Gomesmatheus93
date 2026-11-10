@@ -49,26 +49,6 @@ Gosto de transformar ideias em projetos funcionais, desenvolver interfaces, cria
 
 </div>
 
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Gomesmatheus93&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&locale=pt-br" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gomesmatheus93&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&locale=pt-br" />
-
-</div>
-
-<div align="center">
-
-<img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=Gomesmatheus93&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&locale=pt_BR" />
-
-</div>
-
----
-
 
 ## 🚀 Projetos em destaque
 
